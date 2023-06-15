@@ -1,3 +1,7 @@
+/**
+ * A script to register discord slash commands in the discord server
+ **/
+
 const { REST, Routes, ApplicationCommandOptionType } = require('discord.js')
 
 const commands = [
